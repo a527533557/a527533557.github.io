@@ -5,6 +5,20 @@
     <title>Pytorch学习</title>
 </head>
 <body>
+    <h1>基本操作</h1>
+    创建tensor的几种方式：
+    <ul>
+        <li>随机生成</li>
+        x = torch.randn(3,24,24)<br>
+        x = torch.zeros(3,3)
+        <li>从numpy生成</li>
+        x = np.random.random((3,4))
+        x = torch.from_numpy(x)
+        <li>从list\set中生成</li>
+        list = [[1,2,3],[4,5,6]]
+        x = torch.tensor(list)
+    </ul>
+    常用操作：
 
 </body>
 </html>

@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a8f1cfb5-c5a1-4d38-beca-c044caa25e18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/torch.html" beforeDir="false" afterPath="$PROJECT_DIR$/torch.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
       <workItem from="1603697633696" duration="1362000" />
       <workItem from="1604479700152" duration="12000" />
       <workItem from="1604479717096" duration="76000" />
+      <workItem from="1604480118929" duration="429000" />
     </task>
     <servers />
   </component>
@@ -78,5 +81,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604480333959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604480333959" />
   </component>
 </project>
