@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>蒋宝向你问好</title>
+	</head>
+	
+	<body>
+		<script>
+			alert("a");
+			jb = document.getElementById("jb");
+			function change(self){
+				self.src = '2.jpg';
+			}
+			function out(self){
+				self.src = '1.jpg';
+			}
+		</script>
+		<font size="20">试着点击蒋宝吧!<br/></font>
+		<img id="jb" src="1.jpg" onclick="change(this)" onmouseout="out(this)"/>
+	</body>
+</html>
